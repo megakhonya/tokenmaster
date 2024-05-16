@@ -20,44 +20,44 @@ async function main() {
   // List 6 events
   const occasions = [
     {
-      name: "UFC Miami",
+      name: "Cyberweek 2024",
       cost: tokens(3),
       tickets: 0,
-      date: "May 31",
-      time: "6:00PM EST",
-      location: "Miami-Dade Arena - Miami, FL"
+      date: "Aug 5",
+      time: "9:00aM EAT",
+      location: "UON Nairobi, University of Nairobi, Nairobi, Kenya"
     },
     {
-      name: "ETH Tokyo",
+      name: "Africa Technology Show Kenya",
       cost: tokens(1),
       tickets: 125,
       date: "Jun 2",
-      time: "1:00PM JST",
-      location: "Tokyo, Japan"
+      time: "1:00PM EAT",
+      location: "Kenyatta International Convention Centre, City Square, along, Harambee Ave, Nairobi, Kenya"
     },
     {
-      name: "ETH Privacy Hackathon",
+      name: "IDC East Africa CIO Summit",
       cost: tokens(0.25),
       tickets: 200,
       date: "Jun 9",
-      time: "10:00AM TRT",
-      location: "Turkey, Istanbul"
+      time: "10:00AM EAT",
+      location: "Radisson Blu Hotel, Nairobi Upper Hill, Elgon Road,Nairobi, Kenya"
     },
     {
-      name: "Dallas Mavericks vs. San Antonio Spurs",
+      name: "Climate Change Adaptation, Mitigation and Resilience",
       cost: tokens(5),
       tickets: 0,
       date: "Jun 11",
-      time: "2:30PM CST",
-      location: "American Airlines Center - Dallas, TX"
+      time: "2:30PM EAT",
+      location: "Best Western Meridian Plus Hotel Nairobi"
     },
     {
-      name: "ETH Global Toronto",
+      name: "Kingdom Tour 2024 with Maverick City Music and Kirk Franklin",
       cost: tokens(1.5),
       tickets: 125,
-      date: "Jun 23",
-      time: "11:00AM EST",
-      location: "Toronto, Canada"
+      date: "Aug 17",
+      time: "6:00PM EAT",
+      location: "Uhuru Gardens 05 Nairobi, Kenya"
     }
   ]
 

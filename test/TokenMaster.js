@@ -3,12 +3,12 @@ const { expect } = require("chai")
 const NAME = "TokenMaster"
 const SYMBOL = "TM"
 
-const OCCASION_NAME = "ETH Texas"
+const OCCASION_NAME = "Africa Real Estate Summit 2024"
 const OCCASION_COST = ethers.utils.parseUnits('1', 'ether')
 const OCCASION_MAX_TICKETS = 100
-const OCCASION_DATE = "Apr 27"
-const OCCASION_TIME = "10:00AM CST"
-const OCCASION_LOCATION = "Austin, Texas"
+const OCCASION_DATE = "Jun 27"
+const OCCASION_TIME = "2:00PM EAT"
+const OCCASION_LOCATION = "Nairobi, Kenya"
 
 describe("TokenMaster", () => {
   let tokenMaster
